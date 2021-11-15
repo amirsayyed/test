@@ -1,0 +1,130 @@
+{
+	"code":200,
+	"result": [
+		{
+			"is_sent":0,
+			"message":" Hi",
+			"timestamp":"09-May-2021 09:00 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Hey",
+            "timestamp":"09-May-2021 09:02 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" Wassup?",
+            "timestamp": "09-May-2021 09:30 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" I'm doin' well!!!",
+            "timestamp": "09-May-2021 09:31 AM"
+        },
+        {
+            "is_sent":1,
+            "message": "What about you?",
+            "timestamp":"09-May-2021 09:31 AM"
+        },
+        {
+			"is_sent":0,
+			"message":" Getting bore in this Lockdown tho!",
+			"timestamp":"09-May-2021 09:45 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Yes bro same here",
+            "timestamp":"09-May-2021 10:02 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" How's your online lecture's are goin'?",
+            "timestamp": "09-May-2021 10:03 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Goin' good.",
+            "timestamp": "09-May-2021 10:10 AM"
+        },
+        {
+            "is_sent":1,
+            "message": "Aur teri intenship kaisi chalri?",
+            "timestamp":"09-May-2021 10:11 AM"
+        },
+        {
+			"is_sent":0,
+			"message":" Sab sahi hai bro, abhi ek chat messenger pe kaam kar raha hu!",
+			"timestamp":"09-May-2021 10:12 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Sahi hai Bhai",
+            "timestamp":"09-May-2021 10:14 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Ramzan kaisa jara, Roze hore na pure?",
+            "timestamp": "09-May-2021 10:14 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" Haa bhai Alhamdulillah",
+            "timestamp": "09-May-2021 10:14 AM"
+        },
+        {
+            "is_sent":0,
+            "message": "Aur Tere?",
+            "timestamp":"09-May-2021 10:30 AM"
+        },
+        {
+			"is_sent":1,
+			"message":" Alhamdulillah bhai mere bhi acche jaare roze",
+			"timestamp":"09-May-2021 10:45 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" Masha'allah!",
+            "timestamp":"09-May-2021 10:45 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" Aur namaz kaha pe padhre?",
+            "timestamp": "09-May-2021 10:50 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Ghar pe hi bhai",
+            "timestamp": "09-May-2021 10:51 AM"
+        },
+        {
+            "is_sent":1,
+            "message": "Tu kaha padhra?",
+            "timestamp":"09-May-2021 10:55 AM"
+        },
+        {
+			"is_sent":0,
+			"message":" Chacha ke ghar pe",
+			"timestamp":"09-May-2021 10:56 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" Alhamdulillah Taraweeh bhi hori.",
+            "timestamp":"09-May-2021 10:56 AM"
+        },
+        {
+            "is_sent":1,
+            "message":" Haa bhai humlog ki bhi hori, Alhamdulillah!",
+            "timestamp": "09-May-2021 11:00 AM"
+        },
+        {
+            "is_sent":0,
+            "message":" Chalega bhai kar phir call free hone ke baad, bye!!!",
+            "timestamp": "09-May-2021 11:11 AM"
+        },
+        {
+            "is_sent":1,
+            "message": "Haa bhai zaroor, bye.",
+            "timestamp":"09-May-2021 11:15 AM"
+        }
+    ]
+}
